@@ -11,7 +11,7 @@ You can find me on Discord as `Geri#9999` or check out [my website](https://geri
 I also actively check my email at `admin@geri.dev`!
 
 
-## ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙳𝚘𝚒𝚗𝚐:
+## ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢  𝙳𝚘𝚒𝚗𝚐:
 - Technical Support Operator @ [apexminecrafthosting.com](https://apexminecrafthosting.com) <img height=16px src="https://apexminecrafthosting.com/favicon.ico">
 
 - Planning on creating my own city builder game!
