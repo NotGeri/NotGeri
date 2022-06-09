@@ -6,23 +6,25 @@ Most people know me as Geri online and I'm from Hungary! <img height=16px src="h
 
 I spend most of my free time understanding how certain pieces of softwares or other things in the world work and I also try my best to help others do the same!
 
-You can find me on Discord as `Geri#9999` or check out [my website](https://geri.dev/) (work in progress)
+You can find me on Discord as `Geri#9999`.
 
 I also actively check my email at `admin@geri.dev`!
 
 
 ## ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢  𝙳𝚘𝚒𝚗𝚐:
-- Jr. SysOps @ [apexminecrafthosting.com](https://apexminecrafthosting.com) <img height=16px src="https://apexminecrafthosting.com/favicon.ico">
+- Jr. SysOps / Jr. Backend Developer @ [apexminecrafthosting.com](https://apexminecrafthosting.com) <img height=16px src="https://apexminecrafthosting.com/favicon.ico">
 
-- Planning on creating my own city builder game!
+- **Actively looking for nice side-projects**. Hit me up if you got virtually any ideas!
 
-- Working on my game engine in Java:
+- Planning on creating my own city builder game! — Currently on hold until motivation strikes again. ✨
+
+- Working on my game engine in Java: 
 
 ```yml
-- Rendering engine:     █████████▒░░░░░░░░░░░░░░░  (37%)
+- Rendering engine:     █████████████████████▓░░░  (80%)
 - Custom UI library:    █████▓░░░░░░░░░░░░░░░░░░░  (21%) 
 - Physics:              ░░░░░░░░░░░░░░░░░░░░░░░░░  (0%)
-- Basic utils:          ░░░░░░░░░░░░░░░░░░░░░░░░░  (0%) 
+- Basic utils:          █████████▓░░░░░░░░░░░░░░░  (40%) 
 ```
 
 ## 🔨 𝚃𝚘𝚘𝚕𝚜 & 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
@@ -35,6 +37,3 @@ I also actively check my email at `admin@geri.dev`!
 ## 📈 Github Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NotGeri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0E808D&ring=0E808D&fire=0E808D&currStreakNum=0E808D&sideNums=0E808D&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notgeri&count_private=true&theme=dark&show_icons=true&hide_title=true&icon_color=109bab&bg_color=0d1117&hide_border=true) <br>
-<details><summary>👀</summary>
-amogus
-</details>
