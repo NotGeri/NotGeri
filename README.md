@@ -6,7 +6,7 @@ Most people know me as Geri online.
 
 I spend most of my free time understanding how certain pieces of softwares or other things in the world work and I also try my best to help others do the same.
 
-You can find me on Discord as `Geri#9999`.
+You can find me on Discord as `Geri#1513`.
 
 I also actively check my email at `admin@geri.dev`!
 
