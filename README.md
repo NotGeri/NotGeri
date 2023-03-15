@@ -8,7 +8,7 @@ I currently work full-time for [Apex Hosting](https://apexminecrafthosting.com/)
 
 Most of my free time is spent understanding how certain pieces of technologies and other things in the world work and I also try my best to help others do the same.
 
-You can find me on Discord as `Geri#1513` or [join my server](https://discord.gg/AGqMNEPEhk)!
+You can find me on Discord as `Geri#9999` or [join my server](https://discord.gg/AGqMNEPEhk)!
 
 I also actively check my email at `me@geri.dev`!
 
