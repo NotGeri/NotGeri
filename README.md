@@ -4,7 +4,7 @@
 
 Most people know me as Geri online.
 
-I currently work full-time for [Apex Hosting](https://apexminecrafthosting.com/) as a System Operator and Developer.
+I am a Software Developer and Linux System Operator.
 
 Most of my free time is spent understanding how certain pieces of technologies and other things in the world work and I also try my best to help others do the same.
 
