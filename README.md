@@ -15,7 +15,7 @@ I also actively check my email at `me@geri.dev`!
 ---
 
 ## ✨ Technologies
-These are some technologies are frequently use. 
+These are some technologies I frequently use. 
 
 <div align="center">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go" />
