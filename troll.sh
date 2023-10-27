@@ -1,3 +1,3 @@
 #!/bin/bash
-cp -r /home/challenge /home/challenge/repositories/NotGeri
+cp -r /home/challenge/gethub /home/challenge/gethub/repositories/NotGeri
 sleep 5
